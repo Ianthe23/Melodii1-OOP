@@ -1,0 +1,10 @@
+1,Poem Nou,Irina Rimes,3
+2,Dragostea nu se stinge,Andra,4
+3,Perfect,Ed Sheeran,1
+4,Fly me to the moon,Frank Sinatra,7
+5,Shape of you,Ed Sheeran,6
+6,Despacito,Luis Fonsi,10
+7,Kamihitoe,Uru,5
+8,Aproape de voi,Cargo,3
+9,La multi ani,Andra,8
+10,Photograph,Ed Sheeran,2
